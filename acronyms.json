@@ -1,0 +1,466 @@
+[
+  {
+    "acronymString": "FIRMS OF ADVISERS",
+    "description": "Subject SP4 chapter groupings",
+    "expansion": [
+      {
+        "letter": "F",
+        "meaning": "Financing"
+      },
+      {
+        "letter": "I",
+        "meaning": "Investment strategy / classes"
+      },
+      {
+        "letter": "R",
+        "meaning": "Risks"
+      },
+      {
+        "letter": "M",
+        "meaning": "Models / ALM"
+      },
+      {
+        "letter": "S",
+        "meaning": "Sponsor covenant"
+      },
+      {
+        "letter": "O",
+        "meaning": "Options"
+      },
+      {
+        "letter": "F",
+        "meaning": "Funding methods"
+      },
+      {
+        "letter": "A",
+        "meaning": "Assumptions / data"
+      },
+      {
+        "letter": "D",
+        "meaning": "Discontinuance"
+      },
+      {
+        "letter": "V",
+        "meaning": "Valuations"
+      },
+      {
+        "letter": "I",
+        "meaning": "Insurance"
+      },
+      {
+        "letter": "S",
+        "meaning": "Scheme design"
+      },
+      {
+        "letter": "E",
+        "meaning": "Experience analysis / sources"
+      },
+      {
+        "letter": "R",
+        "meaning": "Regulation / guidance"
+      },
+      {
+        "letter": "S",
+        "meaning": "Stakeholders"
+      }
+    ]
+  },
+  {
+    "acronymString": "PATERNALISM",
+    "description": "Objectives of the State",
+    "expansion": [
+      {
+        "letter": "P",
+        "meaning": "Political popularity"
+      },
+      {
+        "letter": "A",
+        "meaning": "Avoid or reduce any burden on the State"
+      },
+      {
+        "letter": "T",
+        "meaning": "Target or provide a safety net/basic provision"
+      },
+      {
+        "letter": "E",
+        "meaning": "Encourage or compel private provision and educate people"
+      },
+      {
+        "letter": "R",
+        "meaning": "Regulate private provision appropriately"
+      },
+      {
+        "letter": "N",
+        "meaning": "Needs of the population are met"
+      },
+      {
+        "letter": "A",
+        "meaning": "Administratively simple scheme"
+      },
+      {
+        "letter": "L",
+        "meaning": "Limit dependency"
+      },
+      {
+        "letter": "I",
+        "meaning": "Inclusive scheme that may redistribute wealth"
+      },
+      {
+        "letter": "S",
+        "meaning": "Stable, predictable and affordable costs"
+      },
+      {
+        "letter": "M",
+        "meaning": "Macroeconomic effects are positive"
+      }
+    ]
+  },
+  {
+    "acronymString": "FAVOURITES",
+    "description": "Objectives of individuals",
+    "expansion": [
+      {
+        "letter": "F",
+        "meaning": "Flexible benefits"
+      },
+      {
+        "letter": "A",
+        "meaning": "Affordable and adequate benefits"
+      },
+      {
+        "letter": "V",
+        "meaning": "Value for money"
+      },
+      {
+        "letter": "O",
+        "meaning": "Offers protection benefits"
+      },
+      {
+        "letter": "U",
+        "meaning": "Understandable benefits"
+      },
+      {
+        "letter": "R",
+        "meaning": "Reliable, predictable benefits"
+      },
+      {
+        "letter": "I",
+        "meaning": "Inflation-proofed benefits"
+      },
+      {
+        "letter": "T",
+        "meaning": "Tax breaks used to maximum effect"
+      },
+      {
+        "letter": "E",
+        "meaning": "Easily transferable"
+      },
+      {
+        "letter": "S",
+        "meaning": "Secure benefits"
+      }
+    ]
+  },
+  {
+    "acronymString": "VACATION ASPECT",
+    "description": "Objectives of the employer",
+    "expansion": [
+      {
+        "letter": "V",
+        "meaning": "Value for money"
+      },
+      {
+        "letter": "A",
+        "meaning": "Administration costs are low"
+      },
+      {
+        "letter": "C",
+        "meaning": "Cost - stable, predictable, affordable"
+      },
+      {
+        "letter": "A",
+        "meaning": "Aid manpower planning"
+      },
+      {
+        "letter": "T",
+        "meaning": "Target benefits/groups"
+      },
+      {
+        "letter": "I",
+        "meaning": "Integrate with State/individual provision"
+      },
+      {
+        "letter": "O",
+        "meaning": "Opportunity cost is low"
+      },
+      {
+        "letter": "N",
+        "meaning": "Needs of employees are met"
+      },
+      {
+        "letter": "A",
+        "meaning": "Attract and retain staff"
+      },
+      {
+        "letter": "S",
+        "meaning": "Simple scheme"
+      },
+      {
+        "letter": "P",
+        "meaning": "Paternalism"
+      },
+      {
+        "letter": "E",
+        "meaning": "Employees appreciate benefits"
+      },
+      {
+        "letter": "C",
+        "meaning": "Comply with/freedom from legislation"
+      },
+      {
+        "letter": "T",
+        "meaning": "Tax concessions used effectively"
+      }
+    ]
+  },
+  {
+    "acronymString": "CLASS AS MUD",
+    "description": "Objectives of trustees",
+    "expansion": [
+      {
+        "letter": "C",
+        "meaning": "Confidentiality maintained"
+      },
+      {
+        "letter": "L",
+        "meaning": "Legislation, regulation and docs adhered to"
+      },
+      {
+        "letter": "A",
+        "meaning": "Act in interest of all members"
+      },
+      {
+        "letter": "S",
+        "meaning": "Security of benefits maintained"
+      },
+      {
+        "letter": "S",
+        "meaning": "Sponsor support maintained"
+      },
+      {
+        "letter": "A",
+        "meaning": "Assets invested appropriately"
+      },
+      {
+        "letter": "S",
+        "meaning": "Simple and accurate administration"
+      },
+      {
+        "letter": "M",
+        "meaning": "Meet regularly, keep minutes"
+      },
+      {
+        "letter": "U",
+        "meaning": "Use advisers appropriately"
+      },
+      {
+        "letter": "D",
+        "meaning": "Don’t profit from duties"
+      }
+    ]
+  },
+  {
+    "acronymString": "PERFECTION",
+    "description": "Factors to consider when designing a scheme",
+    "expansion": [
+      {
+        "letter": "P",
+        "meaning": "Practical and legal issues"
+      },
+      {
+        "letter": "E",
+        "meaning": "Effects on other benefits"
+      },
+      {
+        "letter": "R",
+        "meaning": "Risk"
+      },
+      {
+        "letter": "F",
+        "meaning": "Financing by sponsor and member"
+      },
+      {
+        "letter": "E",
+        "meaning": "Eligibility"
+      },
+      {
+        "letter": "C",
+        "meaning": "Cost and competition"
+      },
+      {
+        "letter": "T",
+        "meaning": "Targeting"
+      },
+      {
+        "letter": "I",
+        "meaning": "Integration"
+      },
+      {
+        "letter": "O",
+        "meaning": "Objectives of sponsor"
+      },
+      {
+        "letter": "N",
+        "meaning": "Needs of stakeholders"
+      }
+    ]
+  },
+  {
+    "acronymString": "PROSAIC",
+    "description": "High-level issues in option design",
+    "expansion": [
+      {
+        "letter": "P",
+        "meaning": "Practical issues"
+      },
+      {
+        "letter": "R",
+        "meaning": "Restrictions"
+      },
+      {
+        "letter": "O",
+        "meaning": "Objectives"
+      },
+      {
+        "letter": "S",
+        "meaning": "Selection risk"
+      },
+      {
+        "letter": "A",
+        "meaning": "Assumptions for setting terms"
+      },
+      {
+        "letter": "I",
+        "meaning": "Impact on other bases"
+      },
+      {
+        "letter": "C",
+        "meaning": "Consistency with other options"
+      }
+    ]
+  },
+  {
+    "acronymString": "DIALECT",
+    "description": "Detailed/practical issues with options",
+    "expansion": [
+      {
+        "letter": "D",
+        "meaning": "Default status"
+      },
+      {
+        "letter": "I",
+        "meaning": "Incentives"
+      },
+      {
+        "letter": "A",
+        "meaning": "Admin"
+      },
+      {
+        "letter": "L",
+        "meaning": "Legislation, scheme docs, best practice"
+      },
+      {
+        "letter": "E",
+        "meaning": "Education"
+      },
+      {
+        "letter": "C",
+        "meaning": "Communication"
+      },
+      {
+        "letter": "T",
+        "meaning": "Tax"
+      }
+    ]
+  },
+  {
+    "acronymString": "MILLIGRAMS",
+    "description": "Potential risk areas",
+    "expansion": [
+      {
+        "letter": "M",
+        "meaning": "Mortality"
+      },
+      {
+        "letter": "I",
+        "meaning": "Investment / matching"
+      },
+      {
+        "letter": "L",
+        "meaning": "Liquidity"
+      },
+      {
+        "letter": "L",
+        "meaning": "Legislative"
+      },
+      {
+        "letter": "I",
+        "meaning": "Inflation (price and salary)"
+      },
+      {
+        "letter": "G",
+        "meaning": "Governance"
+      },
+      {
+        "letter": "R",
+        "meaning": "Reputational"
+      },
+      {
+        "letter": "A",
+        "meaning": "Administrative"
+      },
+      {
+        "letter": "M",
+        "meaning": "Market movement"
+      },
+      {
+        "letter": "S",
+        "meaning": "Selection"
+      }
+    ]
+  },
+  {
+    "acronymString": "DR FLOSS",
+    "description": "Criteria to assess financing approaches",
+    "expansion": [
+      {
+        "letter": "D",
+        "meaning": "Durability"
+      },
+      {
+        "letter": "R",
+        "meaning": "Realism"
+      },
+      {
+        "letter": "F",
+        "meaning": "Flexibility"
+      },
+      {
+        "letter": "L",
+        "meaning": "Liquidity"
+      },
+      {
+        "letter": "O",
+        "meaning": "Opportunity cost"
+      },
+      {
+        "letter": "S",
+        "meaning": "Security"
+      },
+      {
+        "letter": "S",
+        "meaning": "Stability"
+      }
+    ]
+  }
+]
