@@ -1,7 +1,53 @@
 [
   {
+    "acronymString": "CRISP CUFFS",
+    "description": "Factors to consider when determining the valuation approach.",
+    "expansion": [
+      {
+        "letter": "C",
+        "meaning": "Covenant"
+      },
+      {
+        "letter": "R",
+        "meaning": "Regulation"
+      },
+      {
+        "letter": "I",
+        "meaning": "Investment strategy"
+      },
+      {
+        "letter": "S",
+        "meaning": "Stakeholders"
+      },
+      {
+        "letter": "P",
+        "meaning": "Purpose"
+      },
+      {
+        "letter": "C",
+        "meaning": "Consistency"
+      },
+      {
+        "letter": "U",
+        "meaning": "Uncertainty"
+      },
+      {
+        "letter": "F",
+        "meaning": "Financial positions"
+      },
+      {
+        "letter": "F",
+        "meaning": "Funding approach"
+      },
+      {
+        "letter": "S",
+        "meaning": "Scheme characteristics"
+      }
+    ]
+  },
+  {
     "acronymString": "PACIFIC RIM",
-    "description": "Mnemonic checklist of areas to review (plans, data, risks, meetings, outlook, models) for company / covenant / credit analysis.",
+    "description": "Factors to consider when determining sponsor covenant",
     "expansion": [
       {
         "letter": "P",
@@ -47,7 +93,7 @@
   },
   {
     "acronymString": "RACING CAR",
-    "description": "Mnemonic checklist for funding and covenant actions/options in pension or financing negotiations.",
+    "description": "Actions to consider if sponsor covenant is weak.",
     "expansion": [
       {
         "letter": "R",
