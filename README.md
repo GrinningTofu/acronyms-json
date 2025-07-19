@@ -16,10 +16,10 @@ Please format each one into this json structure:
   ]
 },
 
-✅ Important:
+Important:
 - If the acronym is a **real word or abbreviation** (e.g. "FIRMS", "API"), keep it **unspaced**
 - If the acronym is a **mnemonic phrase** (e.g. "I LOVE MONEY"), preserve the **spaces**
 - Each object must end with a **comma**, so it's ready to be pasted into a list
-- Do **not** wrap the output in an array
-- Do **not** include any extra text
+- Do **not** wrap the output in an array, and put a comma at the end of the last acronym object
 - Output only raw json object literals, one per acronym
+- Use the correct double apostrophe, "
