@@ -1,36 +1,5 @@
 [
   {
-“acronymString”: “PACIFIC RIM”,
-“description”: “Mnemonic checklist of areas to review (plans, data, risks, meetings, outlook, models) for company / covenant / credit analysis.”,
-“expansion”: [
-{ “letter”: “P”, “meaning”: “Plans of the company” },
-{ “letter”: “A”, “meaning”: “Accounting data (quantitative derivation from)” },
-{ “letter”: “C”, “meaning”: “Credit rating” },
-{ “letter”: “I”, “meaning”: “Implied market default risk” },
-{ “letter”: “F”, “meaning”: “Financial metrics” },
-{ “letter”: “I”, “meaning”: “Independent Business Review” },
-{ “letter”: “C”, “meaning”: “Company meetings / discussions” },
-{ “letter”: “R”, “meaning”: “Requirements for notification to trustees” },
-{ “letter”: “I”, “meaning”: “Industry / business outlook” },
-{ “letter”: “M”, “meaning”: “Merton-type credit risk models” }
-]
-},
-{
-“acronymString”: “RACING CAR”,
-“description”: “Mnemonic checklist for funding and covenant actions/options in pension or financing negotiations.”,
-“expansion”: [
-{ “letter”: “R”, “meaning”: “Ratchets in contributions” },
-{ “letter”: “A”, “meaning”: “Accrual (cease or reduce)” },
-{ “letter”: “C”, “meaning”: “Contingent contributions” },
-{ “letter”: “I”, “meaning”: “Investment strategy review” },
-{ “letter”: “N”, “meaning”: “Negotiate funding approach” },
-{ “letter”: “G”, “meaning”: “Guarantees” },
-{ “letter”: “C”, “meaning”: “Contingent assets” },
-{ “letter”: “A”, “meaning”: “Assets paying out on insolvency (eg credit default swaps)” },
-{ “letter”: “R”, “meaning”: “Restrictive covenants” }
-]
-},
-  {
     "acronymString": "FIRMS OF ADVISERS",
     "description": "Subject SP4 chapter groupings",
     "expansion": [
