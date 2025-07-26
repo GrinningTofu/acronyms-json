@@ -199,164 +199,139 @@
       }
     ]
   },
+ 
   {
-    "acronymString": "PATERNALISM",
-    "description": "Objectives of the State",
+    "acronymString": "SUPPORTIVE",
+    "description": "Objectives of the State in providing welfare and benefits.",
     "expansion": [
-      {
-        "letter": "P",
-        "meaning": "Political popularity"
-      },
-      {
-        "letter": "A",
-        "meaning": "Avoid or reduce any burden on the State"
-      },
-      {
-        "letter": "T",
-        "meaning": "Target or provide a safety net/basic provision"
-      },
-      {
-        "letter": "E",
-        "meaning": "Encourage or compel private provision and educate people"
-      },
-      {
-        "letter": "R",
-        "meaning": "Regulate private provision appropriately"
-      },
-      {
-        "letter": "N",
-        "meaning": "Needs of the population are met"
-      },
-      {
-        "letter": "A",
-        "meaning": "Administratively simple scheme"
-      },
-      {
-        "letter": "L",
-        "meaning": "Limit dependency"
-      },
-      {
-        "letter": "I",
-        "meaning": "Inclusive scheme that may redistribute wealth"
-      },
       {
         "letter": "S",
-        "meaning": "Stable, predictable and affordable costs"
+        "meaning": "Safety net / stable cost – Provide for those in need (minimum standard)"
       },
       {
-        "letter": "M",
-        "meaning": "Macroeconomic effects are positive"
-      }
-    ]
-  },
-  {
-    "acronymString": "FAVOURITES",
-    "description": "Objectives of individuals",
-    "expansion": [
-      {
-        "letter": "F",
-        "meaning": "Flexible benefits"
+        "letter": "U",
+        "meaning": "Understandable – Educate public, keep scheme simple"
       },
       {
-        "letter": "A",
-        "meaning": "Affordable and adequate benefits"
+        "letter": "P",
+        "meaning": "Paternalism – Act in citizens’ best interests"
       },
       {
-        "letter": "V",
-        "meaning": "Value for money"
+        "letter": "P",
+        "meaning": "Private provision – Encourage/compel private savings"
       },
       {
         "letter": "O",
-        "meaning": "Offers protection benefits"
+        "meaning": "Optimise resources – Efficient use of taxpayer money"
+      },
+      {
+        "letter": "R",
+        "meaning": "Redistribution – Reduce inequality"
+      },
+      {
+        "letter": "T",
+        "meaning": "Taxpayer value / targeted – Ensure acceptable cost, minimise fraud"
+      },
+      {
+        "letter": "I",
+        "meaning": "Inclusive benefits – Meet real needs of recipients"
+      },
+      {
+        "letter": "V",
+        "meaning": "Voter appeal – Maintain popularity"
+      },
+      {
+        "letter": "E",
+        "meaning": "Economic impact – Promote macroeconomic stability"
+      }
+    ]
+  }
+,
+ 
+  {
+    "acronymString": "DISPUTES",
+    "description": "Objectives of pension scheme members.",
+    "expansion": [
+      {
+        "letter": "D",
+        "meaning": "Death benefits"
+      },
+      {
+        "letter": "I",
+        "meaning": "Ill health benefits"
+      },
+      {
+        "letter": "S",
+        "meaning": "Standard of living"
+      },
+      {
+        "letter": "P",
+        "meaning": "Portable, flexible benefits"
       },
       {
         "letter": "U",
         "meaning": "Understandable benefits"
       },
       {
-        "letter": "R",
-        "meaning": "Reliable, predictable benefits"
-      },
-      {
-        "letter": "I",
-        "meaning": "Inflation-proofed benefits"
-      },
-      {
         "letter": "T",
-        "meaning": "Tax breaks used to maximum effect"
+        "meaning": "Tax efficiency"
       },
       {
         "letter": "E",
-        "meaning": "Easily transferable"
+        "meaning": "Employee contributions affordable and value for money"
       },
       {
         "letter": "S",
-        "meaning": "Secure benefits"
+        "meaning": "Stable, predictable, secure benefits"
       }
     ]
-  },
+  }
+,
+  
   {
-    "acronymString": "VACATION ASPECT",
-    "description": "Objectives of the employer",
+    "acronymString": "COMPANIES",
+    "description": "Objectives of the employer in providing a pension scheme.",
     "expansion": [
       {
-        "letter": "V",
-        "meaning": "Value for money"
-      },
-      {
-        "letter": "A",
-        "meaning": "Administration costs are low"
-      },
-      {
         "letter": "C",
-        "meaning": "Cost - stable, predictable, affordable"
-      },
-      {
-        "letter": "A",
-        "meaning": "Aid manpower planning"
-      },
-      {
-        "letter": "T",
-        "meaning": "Target benefits/groups"
-      },
-      {
-        "letter": "I",
-        "meaning": "Integrate with State/individual provision"
+        "meaning": "Cost control (stability, flexibility, predictability)"
       },
       {
         "letter": "O",
-        "meaning": "Opportunity cost is low"
+        "meaning": "Opportunity cost (money could have been invested in business)"
       },
       {
-        "letter": "N",
-        "meaning": "Needs of employees are met"
-      },
-      {
-        "letter": "A",
-        "meaning": "Attract and retain staff"
-      },
-      {
-        "letter": "S",
-        "meaning": "Simple scheme"
+        "letter": "M",
+        "meaning": "Manpower planning"
       },
       {
         "letter": "P",
         "meaning": "Paternalism"
       },
       {
+        "letter": "A",
+        "meaning": "Attract and retain staff / admin"
+      },
+      {
+        "letter": "N",
+        "meaning": "Needs of employees met"
+      },
+      {
+        "letter": "I",
+        "meaning": "Integration with State benefits"
+      },
+      {
         "letter": "E",
-        "meaning": "Employees appreciate benefits"
+        "meaning": "Employee appreciation"
       },
       {
-        "letter": "C",
-        "meaning": "Comply with/freedom from legislation"
-      },
-      {
-        "letter": "T",
-        "meaning": "Tax concessions used effectively"
+        "letter": "S",
+        "meaning": "Simple to run and comply (including regulation and minimise risk such as longevity)"
       }
     ]
-  },
+  }
+
+  ,
   {
     "acronymString": "CLASS AS MUD",
     "description": "Objectives of trustees",
