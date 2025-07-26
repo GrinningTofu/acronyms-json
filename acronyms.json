@@ -1,5 +1,82 @@
 [
   {
+    "acronymString": "POOR",
+    "description": "Framework for evaluating someone's proposal by considering practicalities, objectives, options, and restrictions.",
+    "expansion": [
+      {
+        "letter": "P",
+        "meaning": "Practicalities"
+      },
+      {
+        "letter": "O",
+        "meaning": "Objectives"
+      },
+      {
+        "letter": "O",
+        "meaning": "Options"
+      },
+      {
+        "letter": "R",
+        "meaning": "Restrictions"
+      }
+    ]
+  },
+  {
+    "acronymString": "BASIC FACTORS",
+    "description": "Key considerations for assessing the general financial position and valuation basis of a pension scheme.",
+    "expansion": [
+      {
+        "letter": "B",
+        "meaning": "Basis of valuation (going concern, best estimate, buyout)"
+      },
+      {
+        "letter": "A",
+        "meaning": "Asset valuation method (market value, volatility, capital gains)"
+      },
+      {
+        "letter": "S",
+        "meaning": "Size comparison with similar schemes"
+      },
+      {
+        "letter": "I",
+        "meaning": "Investment strategy and degree of asset-liability matching"
+      },
+      {
+        "letter": "C",
+        "meaning": "Cost of accrual (e.g. one year vs long term)"
+      },
+      {
+        "letter": "F",
+        "meaning": "Funding level and financial significance of any deficit"
+      },
+      {
+        "letter": "A",
+        "meaning": "Actions taken so far to address the deficit"
+      },
+      {
+        "letter": "C",
+        "meaning": "Cause of the deficit and whether it's self-correcting"
+      },
+      {
+        "letter": "T",
+        "meaning": "Time available to rectify the deficit (scheme maturity)"
+      },
+      {
+        "letter": "O",
+        "meaning": "Other valuation perspectives (buyout, best estimate)"
+      },
+      {
+        "letter": "R",
+        "meaning": "Rules governing funding and recovery plan"
+      },
+      {
+        "letter": "S",
+        "meaning": "Strength of prudence in assumptions and methods"
+      }
+    ]
+  }
+,
+  {
     "acronymString": "CRISP CUFFS",
     "description": "Factors to consider when determining the valuation approach.",
     "expansion": [
