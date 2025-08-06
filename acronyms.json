@@ -1,5 +1,95 @@
 [
   {
+    "acronymString": "BEST CHARTER",
+    "description": "Considerations when using past data to set future assumptions.",
+    "expansion": [
+      {
+        "letter": "B",
+        "meaning": "Balance of homogenous groups may have changed"
+      },
+      {
+        "letter": "E",
+        "meaning": "Economic situation may have changed"
+      },
+      {
+        "letter": "S",
+        "meaning": "Social conditions may have changed"
+      },
+      {
+        "letter": "T",
+        "meaning": "Trends over time (e.g. medical or demographic)"
+      },
+      {
+        "letter": "C",
+        "meaning": "Changes in regulation"
+      },
+      {
+        "letter": "H",
+        "meaning": "Heterogeneity within the group being modelled"
+      },
+      {
+        "letter": "A",
+        "meaning": "Abnormal fluctuations in past data"
+      },
+      {
+        "letter": "R",
+        "meaning": "Random fluctuations affecting reliability"
+      },
+      {
+        "letter": "T",
+        "meaning": "Type of recording differences (e.g. smoker classification)"
+      },
+      {
+        "letter": "E",
+        "meaning": "Errors in data"
+      },
+      {
+        "letter": "R",
+        "meaning": "Recording inconsistencies"
+      }
+    ]
+  }
+,
+  {
+    "acronymString": "PASS ASAP",
+    "description": "Limitations of Asset Liability Modelling (ALM).",
+    "expansion": [
+      {
+        "letter": "P",
+        "meaning": "Practicality – May be complex or resource-intensive to implement"
+      },
+      {
+        "letter": "A",
+        "meaning": "Accuracy – Results depend on quality and availability of data"
+      },
+      {
+        "letter": "S",
+        "meaning": "Simplifications – Necessary assumptions may oversimplify reality"
+      },
+      {
+        "letter": "S",
+        "meaning": "Sophistication – Requires expert understanding to build and interpret"
+      },
+      {
+        "letter": "A",
+        "meaning": "Actual environment reflected – May not fully reflect economic or demographic changes"
+      },
+      {
+        "letter": "S",
+        "meaning": "Solutions – May not give a unique or definitive solution"
+      },
+      {
+        "letter": "A",
+        "meaning": "Application – Limited if not tailored to the specific scheme"
+      },
+      {
+        "letter": "P",
+        "meaning": "Presentation of results – May be difficult to communicate clearly to stakeholders"
+      }
+    ]
+  }, 
+
+  {
     "acronymString": "POOR",
     "description": "Framework for evaluating someone's proposal by considering practicalities, objectives, options, and restrictions.",
     "expansion": [
