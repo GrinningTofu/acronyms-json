@@ -1,11 +1,11 @@
 [
   {
-    "acronymString": "BEST CHARTER",
+    "acronymString": "BEST ARCHER",
     "description": "Considerations when using past data to set future assumptions.",
     "expansion": [
       {
         "letter": "B",
-        "meaning": "Balance of homogenous groups may have changed"
+        "meaning": "Balance of homogenous groups underlying the data may have changed"
       },
       {
         "letter": "E",
@@ -17,7 +17,15 @@
       },
       {
         "letter": "T",
-        "meaning": "Trends over time (e.g. medical or demographic)"
+        "meaning": "Trends over time, e.g. medical or demographic"
+      },
+      {
+        "letter": "A",
+        "meaning": "Abnormal fluctuations"
+      },
+      {
+        "letter": "R",
+        "meaning": "Random fluctuations"
       },
       {
         "letter": "C",
@@ -25,19 +33,7 @@
       },
       {
         "letter": "H",
-        "meaning": "Heterogeneity within the group being modelled"
-      },
-      {
-        "letter": "A",
-        "meaning": "Abnormal fluctuations in past data"
-      },
-      {
-        "letter": "R",
-        "meaning": "Random fluctuations affecting reliability"
-      },
-      {
-        "letter": "T",
-        "meaning": "Type of recording differences (e.g. smoker classification)"
+        "meaning": "Heterogeneity within the group to which the assumptions will apply"
       },
       {
         "letter": "E",
@@ -45,7 +41,7 @@
       },
       {
         "letter": "R",
-        "meaning": "Recording inconsistencies"
+        "meaning": "Recording differences (e.g. in categorisation of smoker)"
       }
     ]
   }
