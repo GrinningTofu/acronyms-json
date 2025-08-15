@@ -1,5 +1,32 @@
 [
   {
+    "acronymString": "PRISM",
+    "description": "Key financial reporting considerations for pension schemes under accounting standards.",
+    "expansion": [
+      {
+        "letter": "P",
+        "meaning": "Position – Balance Sheet impact"
+      },
+      {
+        "letter": "R",
+        "meaning": "Result – Profit & Loss impact"
+      },
+      {
+        "letter": "I",
+        "meaning": "In OCI – Volatility shown in Other Comprehensive Income"
+      },
+      {
+        "letter": "S",
+        "meaning": "Sensitivities & maturity – Disclosures of key risks and duration"
+      },
+      {
+        "letter": "M",
+        "meaning": "Method/assumptions – Basis used for valuation and projections"
+      }
+    ]
+  }
+,
+  {
     "acronymString": "BEST ARCHER",
     "description": "Considerations when using past data to set future assumptions.",
     "expansion": [
