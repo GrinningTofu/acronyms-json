@@ -1,5 +1,80 @@
 [
   {
+    "acronymString": "A SAD CUTER INVESTOR",
+    "description": "Factors affecting investment strategy for pension schemes or institutional investors.",
+    "expansion": [
+      {
+        "letter": "A",
+        "meaning": "Accounting regulations"
+      },
+      {
+        "letter": "S",
+        "meaning": "Size of the assets (absolute / relative)"
+      },
+      {
+        "letter": "A",
+        "meaning": "Accrual of liabilities in the future"
+      },
+      {
+        "letter": "D",
+        "meaning": "Diversification"
+      },
+      {
+        "letter": "C",
+        "meaning": "Currency of the liabilities"
+      },
+      {
+        "letter": "U",
+        "meaning": "Uncertainty of the liabilities"
+      },
+      {
+        "letter": "T",
+        "meaning": "Tax treatment of the assets / investor"
+      },
+      {
+        "letter": "E",
+        "meaning": "Environmental / social / governance issues"
+      },
+      {
+        "letter": "R",
+        "meaning": "Risk appetite"
+      },
+      {
+        "letter": "I",
+        "meaning": "Institution’s objectives"
+      },
+      {
+        "letter": "N",
+        "meaning": "Nature of the liabilities"
+      },
+      {
+        "letter": "V",
+        "meaning": "Voluntary and legal restrictions"
+      },
+      {
+        "letter": "E",
+        "meaning": "Existing portfolio"
+      },
+      {
+        "letter": "S",
+        "meaning": "Solvency requirements"
+      },
+      {
+        "letter": "T",
+        "meaning": "Term of the liabilities"
+      },
+      {
+        "letter": "O",
+        "meaning": "Other funds’ strategies (competition)"
+      },
+      {
+        "letter": "R",
+        "meaning": "Return (expected long-term)"
+      }
+    ]
+  }
+,
+  {
     "acronymString": "PRISM",
     "description": "Key financial reporting considerations for pension schemes under accounting standards.",
     "expansion": [
